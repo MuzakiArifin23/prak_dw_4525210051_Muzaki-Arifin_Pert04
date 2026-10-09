@@ -29,10 +29,12 @@ Proyek ini adalah landing page satu halaman untuk studio fiktif bernama **Arunik
 
 **Screenshot tampilan mobile:**
 
-![Tampilan Mobile]
-<img width="624" height="910" alt="ss mobile" src="https://github.com/user-attachments/assets/3ff86321-b5f6-4770-afa2-e225a01eb040" />
 
-<img width="623" height="907" alt="ss mobile2" src="https://github.com/user-attachments/assets/a190ed02-9753-4d7b-acc1-5fb7ccc1c53a" />
+<img width="300" height="807" alt="ss mobile" src="https://github.com/user-attachments/assets/3ff86321-b5f6-4770-afa2-e225a01eb040" />
+
+![Tampilan Mobile]
+
+<img width="300" height="807" alt="ss mobile2" src="https://github.com/user-attachments/assets/a190ed02-9753-4d7b-acc1-5fb7ccc1c53a" />
 
 
 ---
